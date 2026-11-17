@@ -1,6 +1,8 @@
 # Hackintosh_SL5
 EFI folder for mackintosh on surface laptop 5.
 
+you can download from releases page
+
 # What works?
 GPU acceleration (Metal2)
 
