@@ -33,4 +33,4 @@ Audio: you need simple hda 1.0.1 package file
 # what you have to know
 you need to generate smbios.
 
-also, Since this is my first ever mackintosh, I don't have much information. So if you have any problems, just ask claude. Believe me, claude will be your best teacher.
+also, Since this is my first ever hackintosh, I don't have much information. So if you have any problems, just ask claude. Believe me, claude will be your best teacher.
